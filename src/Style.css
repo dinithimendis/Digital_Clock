@@ -12,6 +12,7 @@ body {
 }
 
 .digital {
+    margin-top: -70px !important;
     color: #000;
     background: cornflowerblue;
     width: 400px;
