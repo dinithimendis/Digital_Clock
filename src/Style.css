@@ -8,13 +8,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: cornflowerblue;
+    background: #161A30;
 }
 
 .digital {
     color: #000;
     background: cornflowerblue;
-    width: 350px;
+    width: 400px;
     padding: 15px 10px;
     border: 5px solid #081b29;
     border-radius: 20px;
@@ -30,10 +30,11 @@ body {
 }
 
 .date {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 600;
     text-align: center;
     letter-spacing: 3px;
+    font-style: italic;
 }
 
 .time {
